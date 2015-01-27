@@ -1,11 +1,11 @@
-This is my git repository of notes written in tex or rst format.
+This is my personal notes hosted in Github, written mainly in rst format.
+
 
 Plan
-====
+----
 
 #. algorithm
 
-#. web
-   Includes HTML/JS/CSS
+#. web, including JS/HTML/CSS
 
 #. security
