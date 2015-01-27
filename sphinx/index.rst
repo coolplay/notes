@@ -1,0 +1,7 @@
+Sphinx
+======
+
+.. toctree::
+    :glob:
+
+    *

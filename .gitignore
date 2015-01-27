@@ -1,0 +1,7 @@
+*.pyc
+.ropeproject/
+_output/
+_static/
+*.bak
+*.swp
+tmp/

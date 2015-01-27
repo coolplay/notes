@@ -1,0 +1,7 @@
+Scipy Workflow
+==============
+
+.. toctree::
+    :glob:
+
+    *
