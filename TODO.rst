@@ -1,6 +1,7 @@
 todo list
 =========
 
+* clear up default role in scipy/, which has already been used as math. 
 * algorithm/generate_permutations.rst
 
 * bash/ln

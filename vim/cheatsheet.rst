@@ -10,6 +10,15 @@ vim 备忘录
    ``Definition list``(We use this here). See
    http://rest-sphinx-memo.readthedocs.org/en/latest/ReST.html#definition-list
 
+Ctrl-x Ctrl-n, Ctrl-x Ctrl-p
+    补全单词
+
+Ctrl-x Ctrl-l
+    补全整行
+
+Ctrl-x Ctrl-f
+    补全文件名
+
 zt, zb, zz
     将光标所在行移动到页首，页尾，页中。
 
