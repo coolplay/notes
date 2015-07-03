@@ -22,7 +22,7 @@ html_theme = 'sphinxdoc'
 # add `math` support
 default_role = 'math'
 # path to local mathjax.js
-mathjax_path = 'MathJax/MathJax.js'
+# mathjax_path = 'MathJax/MathJax.js'
 
 
 # chinese

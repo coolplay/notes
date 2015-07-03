@@ -18,6 +18,7 @@
     bash/index
     physics/index
     scipy/index
+    tools/index
 
 .. bash/cheatsheet
 .. python/unicode
